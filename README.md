@@ -3,7 +3,7 @@
 ### Requirements
 
 * Xcode 7.3
-* Objective - C
+* Swift 2.0
 
 ### License
 
