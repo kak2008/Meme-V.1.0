@@ -7,8 +7,8 @@ This is the first version of MemeMe App, App that enables a user to take a pictu
 In order to run this app. Download the repository, open it on XCode, build & run.
 
 ### Screenshots
-
-
+![alt tag](https://github.com/kak2008/Meme-V.1.0/blob/master/Screen%20Shots/Screen%20Shot%202016-08-04%20at%201.51.09%20AM.png
+)
 
 ### Requirements
 
