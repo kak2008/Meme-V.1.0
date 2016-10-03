@@ -14,6 +14,8 @@ In order to run this app. Download the repository, open it on XCode, build & run
 
 - Meme view controller: This view controller consists of image viewer and two text fields. User can take a picture either cliking the camera button or choose a picture from existing album.  
 
+- Selected image will be appeared on image viewer, where user is allowed to edit the text fields. The Meme can be saved and shared in social media such as facebook, twitter, etc. 
+
 - Application uses AVFoundation, UIKit.
 
 ### Requirements
