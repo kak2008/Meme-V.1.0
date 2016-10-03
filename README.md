@@ -10,6 +10,14 @@ In order to run this app. Download the repository, open it on XCode, build & run
 ![alt tag](https://github.com/kak2008/Meme-V.1.0/blob/master/Screen%20Shots/Screen%20Shot%202016-08-04%20at%201.51.09%20AM.png
 )
 
+### Implementation
+
+- Meme view controller: This view controller consists of image viewer.
+
+- 
+
+- Application uses AVFoundation, UIKit.
+
 ### Requirements
 
 * Xcode 7.3
