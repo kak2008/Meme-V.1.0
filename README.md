@@ -12,9 +12,7 @@ In order to run this app. Download the repository, open it on XCode, build & run
 
 ### Implementation
 
-- Meme view controller: This view controller consists of image viewer.
-
-- 
+- Meme view controller: This view controller consists of image viewer and two text fields. User can take a picture either cliking the camera button or choose a picture from existing album.  
 
 - Application uses AVFoundation, UIKit.
 
