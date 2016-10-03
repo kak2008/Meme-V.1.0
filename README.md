@@ -6,6 +6,10 @@ This is the first version of MemeMe App, App that enables a user to take a pictu
 
 In order to run this app. Download the repository, open it on XCode, build & run.
 
+### Screenshots
+
+
+
 ### Requirements
 
 * Xcode 7.3
